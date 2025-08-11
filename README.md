@@ -28,5 +28,5 @@ It includes features such as case conversion, word count, character count, and a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/TextUtils.git
+   git clone https://github.com/Shamiul-alim/TextUtils.git
    cd TextUtils
